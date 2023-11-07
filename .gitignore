@@ -1,3 +1,5 @@
 obsidian/obs_logs/*.log
 .DS_Store
 obsidian/DS_Store
+obsidian/*.bak
+
