@@ -2,7 +2,7 @@
 
 LOG_DIR="$HOME/scripts/obsidian/obs_logs"
 LOG_FILE="$LOG_DIR/obsidian_git_sync.log"
-VAULT_DIR="$HOME/Documents/Obsidian-Vault/"
+VAULT_DIR="$HOME/Documents/Obsidian Vault"
 
 # Ensure log directory exists
 mkdir -p "$LOG_DIR"
