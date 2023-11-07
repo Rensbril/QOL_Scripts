@@ -30,12 +30,12 @@ git pull om de nieuwste wijzigingen op te halen.
 git add . om alle nieuwe of gewijzigde bestanden toe te voegen.
 git commit om de wijzigingen te commit met een tijdstempel.
 git push om de wijzigingen naar de remote repository te sturen.
-Logt alle acties naar obsidian_git_sync.log.
+Logt alle acties naar `obsidian_git_sync.log`.
 
 ### Benodigdheden 🛠️
-Git moet geïnstalleerd zijn.
-SSH of HTTPS configuratie voor toegang tot je remote Git repository.
-cron moet beschikbaar zijn voor het inplannen van taken.
+`Git` moet geïnstalleerd zijn.  
+`SSH` of `HTTPS` configuratie voor toegang tot je remote Git repository.  
+`cron` moet beschikbaar zijn voor het inplannen van taken.
 
 ### Bijdragen ✨
 Heb je ideeën om dit script te verbeteren? Je bijdragen zijn van harte welkom! Maak een pull-verzoek met je verbeteringen.
