@@ -6,3 +6,28 @@ nothing to commit, working tree clean
 No changes to commit
 Everything up-to-date
 ===== Sync completed at Tue Nov  7 14:31:56 CET 2023 =====
+===== Sync started at Tue Nov  7 03:55:37 PM CET 2023 =====
+error: The following untracked working tree files would be overwritten by merge:
+	.obsidian/workspace.json
+Please move or remove them before you merge.
+Aborting
+Failed to pull from remote repository.
+===== Sync started at Tue Nov  7 03:55:41 PM CET 2023 =====
+error: The following untracked working tree files would be overwritten by merge:
+	.obsidian/workspace.json
+Please move or remove them before you merge.
+Aborting
+Failed to pull from remote repository.
+===== Sync started at Tue Nov  7 03:57:55 PM CET 2023 =====
+[main 5ceb0fe] Update Tue Nov  7 03:57:57 PM CET 2023
+ 1 file changed, 1 insertion(+)
+ create mode 100644 .gitignore
+To github.com:Rensbril/Obsidian-Vault.git
+   a2e1934..5ceb0fe  main -> main
+===== Sync completed at Tue Nov  7 03:57:59 PM CET 2023 =====
+===== Sync started at Tue Nov  7 03:58:09 PM CET 2023 =====
+[main 23f6641] Update Tue Nov  7 03:58:11 PM CET 2023
+ 1 file changed, 48 insertions(+), 95 deletions(-)
+To github.com:Rensbril/Obsidian-Vault.git
+   5ceb0fe..23f6641  main -> main
+===== Sync completed at Tue Nov  7 03:58:13 PM CET 2023 =====
